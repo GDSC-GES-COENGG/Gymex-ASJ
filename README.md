@@ -26,7 +26,7 @@ Due to these reasons, one of our teams in our campus have come up with an applic
 
 We are planning to add a diet plan and calories counter in our application in the future. In addition to this, we are also going to leverage our application, "Gymex" by adding past record of the user as to on which day they exercised or which day they skipped their workout.
 
-#Links
+<b>Links: </b>
 
 [Gymex](https://github.com/GDSC-GES-COENGG/Gymex-ASJ)
 
